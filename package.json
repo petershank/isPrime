@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "isprime",
+  "version": "1.0.0",
+  "description": "javascript ESM module to test an integer for primality",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Peter Shank <peter@shank.com> (https://github.com/petershank)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
